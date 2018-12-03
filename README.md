@@ -1,6 +1,6 @@
 # WIP skill-sample-go-fact
 
-This is an example fact skill implemented as an AWS Lambda in Go. It is not currently at parity with [skill-sample-nodejs-fact](https://github.cot/alexa/skill-sample-nodejs-fact), but should serve as a reasonable start.
+This is an example fact skill implemented as an AWS Lambda in Go. It is not currently at parity with [skill-sample-nodejs-fact](https://github.com/alexa/skill-sample-nodejs-fact), but should serve as a reasonable start.
 
 ## Quick[ish]start
  
